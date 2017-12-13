@@ -1,0 +1,19 @@
+{
+  "name": "playwithme",
+  "version": "1.0.0",
+  "description": "Streaming de musique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiR00/playwithme.git"
+  },
+  "author": "Pierre THIEBERT - Web-Generation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiR00/playwithme/issues"
+  },
+  "homepage": "https://github.com/PiR00/playwithme#readme"
+}
